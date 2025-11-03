@@ -112,3 +112,8 @@ The repository is organized for clarity and reproducibility.
 ```
 
 Each training run in `runs/` is timestamped and self-contained, including its configuration, CSV results, and a quick summary, making every experiment **100% reproducible**.
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
